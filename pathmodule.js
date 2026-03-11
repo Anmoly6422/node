@@ -1,0 +1,10 @@
+const path=require('path');
+// console.log(__dirname);
+// console.log(__filename);
+//const filepath="c:\Users\anmol\OneDrive\Desktop\node\pathmodule.js";
+// console.log(path.basename(filepath));
+// console.log(path.basename(filepath,'.js'));
+// console.log(path.dirname(filepath));
+// console.log(path.extname(filepath));
+const finalpath=path.join('c:\Users\anmol\OneDrive\Desktop','node','pathmodule.js');
+console.log(finalpath);
