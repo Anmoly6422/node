@@ -1,0 +1,2 @@
+hello this file is used for fs promise
+this is an appended text.
