@@ -1,5 +1,29 @@
 {
   "dependencies": {
-    "chalk": "^4.1.2"
-  }
+    "axios": "^1.13.6",
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.20",
+    "express": "^5.2.1",
+    "lodash": "^4.17.23",
+    "nodemon": "^3.1.14"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "description": "just making things with node ,express and mongo db",
+  "main": "eventemits.js",
+  "scripts": {
+    "start": "nodemon httpmodule.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anmoly6422/node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Anmoly6422/node/issues"
+  },
+  "homepage": "https://github.com/Anmoly6422/node#readme"
 }
