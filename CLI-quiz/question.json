@@ -1,0 +1,41 @@
+[
+    {
+        "question": "which language runs in a web browser?",
+        "options": [
+            "java",
+            "c",
+            "python",
+            "javascript"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "what does CSS stands for?",
+        "options": [
+            "central style sheets",
+            "cascading style sheets",
+            "cascading simple sheets",
+            "cars simple sheets"
+        ],
+        "answer":2
+    },
+    {
+        "question":"what does HTML stands for?",
+        "options":["Hypertext markup language",
+                   "Hypernext markup language",
+                   "Hello text markup language",
+                   "Hyper tropy markup list "],
+        "answer":1
+    },
+    {
+        "question":"which engine is used by chrome?",
+        "options":["V8","V4","safari","V6"],
+        "answer":1
+    },
+    {
+        "question":"what does js stands for?",
+        "options":["javascript","joystick","javasearch","jsonscipt"],
+        "answer":1
+    }
+
+]
